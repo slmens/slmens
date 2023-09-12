@@ -6,4 +6,4 @@
 - ⚡ Fun fact: The cat in my profile photo works below minimum wage.
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=slmens&theme=dark)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slmens)](https://github.com/anuraghazra/github-readme-stats)
