@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Spring Boot
 - 📫 How to reach me: selimenes527@outlook.com
 - ⚡ Fun fact: The cat in my profile photo works below minimum wage.
 
