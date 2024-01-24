@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning Spring Boot
+- 🌱 I’m currently learning to build full-stack apps with Spring Boot and React
 - 📫 How to reach me: selimenes527@outlook.com
 - ⚡ Fun fact: The cat in my profile photo works below minimum wage.
 
