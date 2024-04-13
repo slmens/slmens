@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently building full-stack apps with Spring Boot and React
-- 📫 How to reach me: selimenes527@outlook.com
+- 📫 How to reach me: https://www.linkedin.com/in/selimenes/
 - ⚡ Fun fact: The cat in my profile photo works below minimum wage.
 
 
