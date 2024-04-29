@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently building full-stack apps with Spring Boot and React
+- 🌱 I’m currently building full-stack apps with NodeJS and React
 - 📫 How to reach me: https://www.linkedin.com/in/selimenes/
 - ⚡ Fun fact: The cat in my profile photo works below minimum wage.
 
