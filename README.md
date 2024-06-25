@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently building full-stack apps with NodeJS and React
+- 🌱 I’m currently building full-stack apps with NodeJS and Next / React Native
 - 📫 How to reach me: https://www.linkedin.com/in/selimenes/
 - 💻 My portfolio website: www.slmens.com
 - ⚡ Fun fact: The cat in my profile photo works below minimum wage.
