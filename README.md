@@ -15,9 +15,6 @@ I build stuff
 - [Understanding Next.js App Router: A Comparison with React Router](https://slmens.medium.com/understanding-nextjs-app-router-a-comparison-with-react-router-ad947e6f760b)
 - [From Containers to Clusters: Building Your First Kubernetes Environment from Scratch](https://slmens.medium.com/from-containers-to-clusters-building-your-first-kubernetes-environment-from-scratch-dc743f8076d3)
 
-#### Stack
-[![Tech Stack](https://skillicons.dev/icons?i=js,ts,react,next,reactnative,nodejs,tailwind,java,spring,postgres,docker&perline=6)](https://skillicons.dev)
-
 #### GitHub
 <div align="center">
 
