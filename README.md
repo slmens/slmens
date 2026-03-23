@@ -9,8 +9,9 @@ I build stuff
 </div>
 
 #### Projects
-- [Receipt Vault](https://github.com/slmens/receiptScanner) – self‑hosted PWA for scanning, extracting, and archiving receipts and invoices using Cloudflare Workers and Claude Vision
+- [Receipt Vault](https://github.com/slmens/receiptScanner) – self‑hosted PWA for scanning, extracting, and archiving receipts and invoices using Cloudflare Workers and vision models.
 - [Fage: Financial Journal](https://apps.apple.com/ca/app/fage/id6759697271) - Financial journal that stores your data on your device.
+- [TinyForge](https://github.com/slmens/tinyForge) - Educational website that is built to explain how vision models work under the hood. You upload an image and MobileNetV2 model starts to run on your browser to guess what is that image.
 
 #### Writing
 - [Understanding Next.js App Router: A Comparison with React Router](https://slmens.medium.com/understanding-nextjs-app-router-a-comparison-with-react-router-ad947e6f760b)
